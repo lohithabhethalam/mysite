@@ -1,0 +1,39 @@
+body{
+    
+    margin:0px;
+    padding:0px;
+    text-align: center;
+    background: url("stadium.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+a{
+    color: #fff;
+}
+
+#present-section{
+    color: #000;
+    display:block;
+    margin:0px auto;
+}
+#past-section{
+    color:#000;
+    display:block;
+    margin:0px auto;
+}
+#future-section{
+    color:#000;
+    display:block;
+    margin:0px auto;
+}
+#name{
+    color:#fff;
+    margin: 4px;
+}
+footer{
+    color:#fff;
+    font-size: 25px;
+
+}
